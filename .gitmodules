@@ -1,3 +1,6 @@
 [submodule "operations_research"]
 	path = operations_research
 	url = /home/artem/operations_research/
+[submodule "es_task1"]
+	path = es_task1
+	url = https://github.com/artvit/es_task1.git
